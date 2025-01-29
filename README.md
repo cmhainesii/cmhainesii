@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cmhainesii
 - 👀 I’m interested in software development, Linux, and learning about technonogy.
-- 🌱 I’m currently learning client/server development.
+- 🌱 I’m currently learning full-stack development.
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 charlesmhainesii at Gmail dot-com
 
